@@ -2,7 +2,7 @@
 
 > My awesome recipe book app
 
-# Example
+# Demo
 https://recipes-mastinoz.netlify.com
 
 ## Build Setup
